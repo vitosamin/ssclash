@@ -1,0 +1,28 @@
+# MyList DIRECT
+DOMAIN-SUFFIX,epg.team
+
+# Remote access
+# DOMAIN-SUFFIX,anydesk.com
+
+# IP diagnostics
+DOMAIN-SUFFIX,ipify.org
+DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,ip.sb
+DOMAIN,api-ipv4.ip.sb
+DOMAIN,ip.sb
+DOMAIN,checkip.amazonaws.com
+
+# IoT / Cloud
+DOMAIN-SUFFIX,mijia.com
+DOMAIN-SUFFIX,vsean.net
+
+# Windows network check
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# Telecom / system
+DOMAIN-SUFFIX,3gppnetwork.org
+DOMAIN-SUFFIX,3gppnetwork
+
+# Network / devices
+DOMAIN-SUFFIX,openwrt.org
