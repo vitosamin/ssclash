@@ -1,0 +1,42 @@
+# 4PDA форум
+DOMAIN-SUFFIX,4pda.to
+
+# IP diagnostics
+DOMAIN-SUFFIX,ip.wtf
+
+# GL.iNet роутеры
+DOMAIN-SUFFIX,gl-inet.com
+
+# Torrent трекер
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,terra-master.com
+
+DOMAIN-SUFFIX,hitscan.com
+#AIBOT
+DOMAIN-SUFFIX,bolt.new
+DOMAIN-SUFFIX,manus.im
+
+DOMAIN-SUFFIX,maton.ai
+
+
+DOMAIN-SUFFIX,maton.space
+DOMAIN-KEYWORD,manus
+
+# Основные домены
+DOMAIN-SUFFIX,lovable.dev
+DOMAIN-SUFFIX,lovable.app
+DOMAIN-SUFFIX,maton.ai
+# Дополнительные для интеграций
+DOMAIN-SUFFIX,supabase.co
+DOMAIN-SUFFIX,resend.com
+DOMAIN-SUFFIX,dell.com
+DOMAIN-SUFFIX,emea.tscprinters.com
+DOMAIN-SUFFIX,tscprinters.com
+DOMAIN-SUFFIX,ru.sex-studentki.studio
+DOMAIN-SUFFIX,ucrack.com
+DOMAIN-SUFFIX,workupload.com
+DOMAIN-SUFFIX,omma.build
+DOMAIN-SUFFIX,cdnorg.d.miui.com
+DOMAIN-SUFFIX,etolem.kz
+DOMAIN-SUFFIX,kz.vitosamin.site
+DOMAIN-SUFFIX,hon.main-net.trustasia.com
