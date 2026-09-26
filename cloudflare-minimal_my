@@ -1,0 +1,8 @@
+# Cloudflare domains
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,pages.dev
+DOMAIN-SUFFIX,trycloudflare.com
+DOMAIN-SUFFIX,cdnjs.com
+DOMAIN-SUFFIX,workers.cloudflare.com
